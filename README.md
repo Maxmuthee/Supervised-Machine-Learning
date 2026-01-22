@@ -1,2 +1,1 @@
-This repository provides a comprehensive collection of supervised machine learning algorithms implemented from scratch and using popular libraries. 
-It serves as both an educational resource and a practical toolkit for anyone looking to understand and apply supervised learning techniques.
+At its core, Supervised Machine Learning is about learning patterns from labeled data to make predictions or decisions without being explicitly programmed. Think of it as teaching a child with examples: you show them many pictures of cats and dogs, tell them which is which, and eventually they can recognize new animals they've never seen before.
